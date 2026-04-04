@@ -1,0 +1,488 @@
+{
+  "business": {
+    "name": "Horizon Excavation",
+    "phone": "555-exc-rq17",
+    "category": "excavation",
+    "city": "Nashville",
+    "state": "TN"
+  },
+  "design": {
+    "preset": {
+      "id": "excavation-trust-navy",
+      "categoryGroup": "excavation",
+      "name": "Trust Navy",
+      "recipeFile": "excavation/trust-navy.astro",
+      "colors": {
+        "primary": "#B45309",
+        "primaryDark": "#78350F",
+        "primaryLight": "#ecd4c2",
+        "secondary": "#994708",
+        "accent": "#D97706",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#B45309",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Teko",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "excavation/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Nashville's Trusted Excavation Experts",
+      "heroSubline": "Precision excavation for Middle Tennessee's toughest terrain. We handle limestone bedrock, stormwater challenges, and rapid-growth construction demands.",
+      "aboutTitle": "Built on Tennessee Soil",
+      "aboutText": [
+        "Horizon Excavation started in 2012 with one bulldozer and a commitment to honest work. Twelve years later, we're Nashville's most requested excavation team for residential and commercial projects.",
+        "Our crews train on Middle Tennessee's unique geology - from the limestone shelves under Green Hills to the expansive clay soils in Hendersonville. We don't just move dirt; we solve foundation challenges.",
+        "When tornadoes hit Donelson or flash floods overwhelm Brentwood storm drains, we're the first call for emergency site work. This community raised us, and we build it stronger every day."
+      ],
+      "valueProps": [
+        {
+          "title": "Limestone Specialists",
+          "description": "We've mastered blasting and drilling through Nashville's stubborn bedrock since 2012."
+        },
+        {
+          "title": "Storm-Ready",
+          "description": "24/7 response for flood damage and tornado debris clearing across Davidson County."
+        },
+        {
+          "title": "No Surprises",
+          "description": "Upfront pricing with GPS-guided accuracy to prevent costly over-excavation."
+        },
+        {
+          "title": "Local Knowledge",
+          "description": "We know every soil type from the Cumberland River floodplain to Franklin's hills."
+        }
+      ],
+      "ctaHeadline": "Need excavation done right?",
+      "ctaSubline": "Call 555-EXC-RQ17 for a same-day quote from Nashville's most experienced team."
+    },
+    "services": [
+      {
+        "slug": "residential-excavation",
+        "name": "Residential Excavation",
+        "shortDescription": "Precision digging for Nashville homes, from bungalow foundations to pool installations.",
+        "description": "Excavating in Nashville requires understanding century-old bungalow footings and modern McMansion requirements alike. Our crews specialize in tight-lot excavations where neighboring homes sit close. We protect existing landscaping while maneuvering mini-excavators through East Nashville's narrow alleys.\n\nFor new constructions in booming areas like Nolensville, we handle the entire site prep - clearing trees, grading for proper drainage away from limestone shelves, and prepping for foundation pours. Historic neighborhoods demand extra care; we've salvaged original brick walkways in Germantown while installing modern utilities.\n\nWhether you're building a garage in Sylvan Park or installing an inground pool in Belle Meade, our GPS-guided equipment ensures precise depth control to prevent costly over-digging.",
+        "process": [
+          "Step 1: Survey site and mark all underground utilities",
+          "Step 2: Establish proper slope for drainage away from foundations",
+          "Step 3: Excavate with laser-guided equipment for precise depth",
+          "Step 4: Final grade and compaction testing"
+        ],
+        "benefits": [
+          "Protection of existing trees and hardscapes",
+          "Knowledge of local soil compaction requirements",
+          "Experience with historic district regulations",
+          "Proper sloping to prevent basement flooding"
+        ],
+        "faq": [
+          {
+            "question": "How do you protect my landscaping during excavation?",
+            "answer": "We use tracked mini-excavators that distribute weight evenly and install protective barriers around trees. For delicate jobs in areas like Green Hills, we'll even hand-dig near specimen plants."
+          },
+          {
+            "question": "What about buried utilities in older neighborhoods?",
+            "answer": "Our team marks all public utilities, then uses electromagnetic scanners to locate private lines common in pre-1950s homes. We've uncovered everything from forgotten septic tanks to prohibition-era tunnels."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-site-prep",
+        "name": "Commercial Site Prep",
+        "shortDescription": "Turn-key land clearing and grading for Nashville's booming commercial projects.",
+        "description": "The Gulch's high-rises and Cool Springs' corporate campuses all start with proper site preparation. Our fleet handles projects from 1/4 acre retail pads to 50-acre industrial developments. We've become specialists in Nashville's urban infill projects, where tight sites demand precise coordination.\n\nFor downtown projects near Broadway, we schedule deliveries during off-peak hours and implement extensive dust control measures. When working near historic structures like the Ryman Auditorium, our operators use vibration monitoring equipment to protect fragile foundations.\n\nIn suburban growth corridors like Murfreesboro, we manage large-scale mass grading operations while maintaining proper silt fencing for TDEC compliance. Our team stays current on all Metro Nashville erosion control ordinances to keep your project moving.\n\nFrom rock blasting for hospital foundations in Midtown to creating retention ponds for Hendersonville shopping centers, we've prepped nearly every type of commercial site in Middle Tennessee.",
+        "process": [
+          "Step 1: Conduct topographical survey and soil testing",
+          "Step 2: Clear vegetation and remove unsuitable materials",
+          "Step 3: Rough grade to establish drainage patterns",
+          "Step 4: Final grade with laser-guided equipment"
+        ],
+        "benefits": [
+          "Experience with Metro zoning requirements",
+          "In-house rock drilling and blasting",
+          "Stormwater management planning",
+          "Coordination with all utility providers"
+        ],
+        "faq": [
+          {
+            "question": "How do you handle rock excavation for large sites?",
+            "answer": "Our certified blasters use precision drilling patterns to fracture limestone with minimal vibration. For sensitive areas, we employ hoe-ram attachments that break rock mechanically."
+          },
+          {
+            "question": "What's your approach to erosion control?",
+            "answer": "We implement TDEC-approved BMPs before first cut, including silt fences, check dams, and temporary seeding. Our team conducts weekly inspections during rainy seasons common in spring."
+          }
+        ]
+      },
+      {
+        "slug": "foundation-digging",
+        "name": "Foundation Digging",
+        "shortDescription": "Expert foundation excavation that accounts for Nashville's unstable clay soils.",
+        "description": "Nashville's expansive clay soils demand foundation excavations that prevent future cracking and settling. We dig foundations with proper bearing depth to reach stable strata, crucial for areas like Brentwood where soil composition changes every 100 yards.\n\nFor historic home renovations in Franklin's downtown district, we hand-excavate around existing fieldstone foundations. Our team documents original footer depths to maintain structural integrity during additions. In new developments around Priest Lake, we use GPS-equipped excavators to dig basement foundations with 1/4-inch accuracy.\n\nWe specialize in challenging hillside foundations common in Forest Hills and Bellevue. Our operators create stepped footings and proper retaining wall excavations that prevent slope creep. When working on tear-downs in 12South, we carefully remove old foundations while preserving adjacent properties.\n\nEvery foundation dig includes soil testing and compaction verification. We coordinate directly with your structural engineer to ensure excavations meet all design specifications for Middle Tennessee's freeze-thaw cycles.",
+        "process": [
+          "Step 1: Soil boring analysis to determine bearing capacity",
+          "Step 2: Excavate to engineered depth with safety benching",
+          "Step 3: Install temporary shoring if required",
+          "Step 4: Verify dimensions with structural engineer"
+        ],
+        "benefits": [
+          "Knowledge of local soil expansion rates",
+          "Experience with hillside foundation requirements",
+          "Preservation of adjacent structures",
+          "Proper compaction testing protocols"
+        ],
+        "faq": [
+          {
+            "question": "How deep should foundations be in Nashville?",
+            "answer": "Minimum 18 inches for frost protection, but often deeper to reach stable soil. In areas like Donelson with high clay content, we frequently excavate 3-4 feet to prevent seasonal movement."
+          },
+          {
+            "question": "Do you work with structural engineers?",
+            "answer": "We coordinate directly with local engineers familiar with Middle Tennessee soils. Recent projects required special pier foundations in Belle Meade and grade beams in flood-prone areas near the Cumberland."
+          }
+        ]
+      },
+      {
+        "slug": "pool-excavation",
+        "name": "Pool Excavation",
+        "shortDescription": "Precision digging for Nashville's luxury pools, accounting for bedrock and groundwater.",
+        "description": "Installing pools in Nashville means contending with limestone ledges and high water tables. We've excavated pools in every soil condition - from the rocky hillsides of Forest Hills to the sandy soils near Old Hickory Lake. Our team knows where groundwater issues arise in Brentwood and how to handle spring-fed surprises.\n\nFor luxury pool projects in Belle Meade, we employ sonic drilling to profile bedrock depth before excavation begins. This prevents costly change orders when hitting unexpected limestone shelves. In flood-prone areas like Bellevue, we design positive drainage away from pool shells during the dig phase.\n\nWe coordinate closely with pool builders to ensure proper shelf depths and equipment pad locations. Our compact excavators can navigate tight backyards in East Nashville without damaging fences or landscaping. When blasting is required, we use minimal charges to fracture rock without disturbing neighbors.\n\nFrom simple plunge pools in Sylvan Park to resort-style installations in Franklin, we've excavated over 300 pools across Middle Tennessee without a single collapse or water intrusion issue.",
+        "process": [
+          "Step 1: Underground utility survey and bedrock profiling",
+          "Step 2: Establish proper elevation for drainage",
+          "Step 3: Excavate to precise dimensions with shelf cuts",
+          "Step 4: Install dewatering systems if needed"
+        ],
+        "benefits": [
+          "Groundwater management experience",
+          "Rock removal expertise",
+          "Minimal site disturbance",
+          "Proper slope for future decking"
+        ],
+        "faq": [
+          {
+            "question": "How do you handle water during excavation?",
+            "answer": "For high water tables in areas like Donelson, we install wellpoint dewatering systems before digging. In extreme cases like Hermitage shoreline properties, we use cofferdams to keep excavations dry."
+          },
+          {
+            "question": "What about blasting near homes?",
+            "answer": "We employ seismic experts who monitor vibration levels. Most residential blasts use feather-and-wedge techniques that fracture rock quietly. In historic districts like Franklin, we often use hydraulic splitters."
+          }
+        ]
+      },
+      {
+        "slug": "storm-damage-cleanup",
+        "name": "Storm Damage Cleanup",
+        "shortDescription": "24/7 emergency excavation services for Nashville's severe weather events.",
+        "description": "When tornadoes touch down in Donelson or flash floods overwhelm Antioch storm drains, Horizon Excavation responds. Our team keeps equipment prepped for Nashville's unpredictable severe weather. We've cleared downed trees from historic homes in East Nashville and stabilized hillside slips in Bellevue after heavy rains.\n\nFor commercial properties along Broadway, we provide emergency debris removal to get businesses reopened quickly. Our track loaders can maneuver through narrow downtown alleys to access damaged areas. In residential neighborhoods like Germantown, we carefully remove fallen trees without damaging century-old brickwork.\n\nWe specialize in foundation stabilization after flood events common along the Cumberland River. Our crews install temporary shoring to prevent collapse while permanent repairs are arranged. For rural properties in Robertson County, we clear mudslides and repair washed-out driveways.\n\nAll storm response work follows FEMA documentation requirements for potential reimbursement. We coordinate directly with insurance adjusters familiar with Middle Tennessee's unique weather challenges.",
+        "process": [
+          "Step 1: Immediate safety assessment of the site",
+          "Step 2: Debris removal with equipment matched to space constraints",
+          "Step 3: Temporary stabilization of compromised structures",
+          "Step 4: Site restoration to pre-storm condition"
+        ],
+        "benefits": [
+          "24/7 emergency response team",
+          "Experience with FEMA documentation",
+          "Delicate handling of historic properties",
+          "Coordination with insurance providers"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond after a storm?",
+            "answer": "We're typically on site within 2 hours for priority calls in Davidson County. Our storm team monitors weather patterns and pre-positions equipment when severe weather threatens."
+          },
+          {
+            "question": "Do you work with insurance companies?",
+            "answer": "Yes, we document all damage with timestamped photos and provide detailed scope reports that meet insurer requirements. We're familiar with claims processes for all major carriers serving Middle Tennessee."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "James T.",
+        "rating": 5,
+        "service": "Foundation Digging",
+        "text": "Horizon saved our Green Hills renovation when they discovered an undocumented limestone ledge right where our addition was planned. Their blasting crew worked within millimeter tolerances to avoid damaging our existing home. The project manager even stayed late to meet with our structural engineer.",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Lisa M.",
+        "rating": 5,
+        "service": "Pool Excavation",
+        "text": "Our Brentwood pool excavation hit water at 4 feet, but Horizon's team had a wellpoint system installed same day. They worked around our mature dogwoods and finished ahead of schedule. The superintendent warned us about potential rock based on nearby properties - no surprises.",
+        "date": "2025-01-22"
+      },
+      {
+        "name": "Robert H.",
+        "rating": 5,
+        "service": "Storm Damage Cleanup",
+        "text": "When the tornado took down three trees on our East Nashville property, Horizon had a crew out before the insurance adjuster. They carefully removed the trunks without damaging our historic brick walkway and even salvaged some mature boxwoods. Absolute lifesavers.",
+        "date": "2024-11-03"
+      },
+      {
+        "name": "Sarah K.",
+        "rating": 5,
+        "service": "Residential Excavation",
+        "text": "Our Germantown garage addition required excavation within 18 inches of the neighbor's foundation. Horizon's operator worked like a surgeon - not a scratch on either property. They even matched the original brick patio after running new utilities.",
+        "date": "2024-09-18"
+      },
+      {
+        "name": "David P.",
+        "rating": 5,
+        "service": "Commercial Site Prep",
+        "text": "As a developer building in The Gulch, I won't use anyone else for site prep. Horizon navigated all the underground utilities and old foundations with zero delays. Their erosion control plan passed Metro inspection on first try - rare for downtown projects.",
+        "date": "2024-08-05"
+      },
+      {
+        "name": "Megan W.",
+        "rating": 5,
+        "service": "Pool Excavation",
+        "text": "Hendersonville's rocky soil scared every other contractor, but Horizon mapped the bedrock before digging and only needed minimal blasting. They worked around our boathouse and left the site cleaner than they found it. Worth every penny.",
+        "date": "2024-07-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Nashville Excavation Contractors | Horizon Excavation",
+        "description": "Trusted excavation services in Nashville, TN. Residential, commercial, and emergency storm work with 97% satisfaction since 2012."
+      },
+      "about": {
+        "title": "About Our Nashville Excavation Company",
+        "description": "Local excavation experts serving Middle Tennessee since 2012. Learn why builders trust us for foundation digs and site prep."
+      },
+      "services": {
+        "title": "Nashville Excavation Services | Residential & Commercial",
+        "description": "Complete excavation solutions for Nashville homes and businesses. Foundation digging, pool excavation, and storm damage cleanup."
+      },
+      "contact": {
+        "title": "Contact Nashville's Excavation Specialists",
+        "description": "Get a fast quote for your Nashville excavation project. Serving Davidson County and surrounding areas 24/7."
+      },
+      "reviews": {
+        "title": "Horizon Excavation Reviews | Nashville, TN",
+        "description": "See why Nashville homeowners and builders rate us 5 stars for excavation, foundation work, and site preparation."
+      },
+      "service-areas": {
+        "title": "Excavation Services in Middle Tennessee",
+        "description": "Serving Franklin, Murfreesboro, Brentwood, and Hendersonville with expert excavation and site work."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    },
+    "serviceAreas": [
+      {
+        "city": "Franklin",
+        "slug": "franklin-tn",
+        "state": "TN",
+        "content": "Horizon Excavation provides top-tier excavation services in Franklin, TN, where historic preservation meets modern development. Our team specializes in handling delicate projects near antebellum homes while ensuring minimal disruption to the area's rich heritage. With Franklin's hot, humid summers, we adapt our excavation techniques to account for soil conditions and seasonal weather challenges.",
+        "localContext": "Franklin is known for its historic downtown and charming antebellum homes, requiring careful excavation planning.",
+        "nearbyAreas": [
+          "Brentwood",
+          "Nolensville",
+          "Thompson's Station"
+        ]
+      },
+      {
+        "city": "Murfreesboro",
+        "slug": "murfreesboro-tn",
+        "state": "TN",
+        "content": "In Murfreesboro, Horizon Excavation supports rapid residential and commercial growth with precision excavation services. We work closely with developers to prepare sites for affordable family housing while adhering to local regulations. The humid summer climate requires efficient drainage solutions, which our team expertly implements for long-lasting results.",
+        "localContext": "Murfreesboro is a thriving city with a focus on affordable family-friendly developments.",
+        "nearbyAreas": [
+          "Smyrna",
+          "La Vergne",
+          "Eagleville"
+        ]
+      },
+      {
+        "city": "Brentwood",
+        "slug": "brentwood-tn",
+        "state": "TN",
+        "content": "Horizon Excavation caters to Brentwood's upscale residential projects, where large wooded lots demand meticulous site preparation. Our services include land clearing, grading, and foundation work tailored to luxury estates. The hot, humid summers in Brentwood require specialized erosion control measures to protect the area's natural beauty.",
+        "localContext": "Brentwood is renowned for its luxury estates nestled in scenic, wooded landscapes.",
+        "nearbyAreas": [
+          "Franklin",
+          "Nashville",
+          "Oak Hill"
+        ]
+      },
+      {
+        "city": "Hendersonville",
+        "slug": "hendersonville-tn",
+        "state": "TN",
+        "content": "Horizon Excavation serves Hendersonville with expertise in lakefront property development along Old Hickory Lake. We provide erosion-resistant solutions and shoreline stabilization to protect waterfront homes. The humid summer climate here demands careful planning to ensure durable and sustainable excavation work.",
+        "localContext": "Hendersonville features picturesque lakefront properties and a strong community focus.",
+        "nearbyAreas": [
+          "Gallatin",
+          "Goodlettsville",
+          "White House"
+        ]
+      },
+      {
+        "city": "Gallatin",
+        "slug": "gallatin-tn",
+        "state": "TN",
+        "content": "Horizon Excavation supports Gallatin's growth with reliable site preparation for residential and commercial projects. Our team is experienced in handling the region's clay-rich soil, especially during the hot, humid summers. We also assist with stormwater management to mitigate seasonal rainfall challenges.",
+        "localContext": "Gallatin is a growing city with a mix of historic charm and new developments.",
+        "nearbyAreas": [
+          "Hendersonville",
+          "Portland",
+          "Westmoreland"
+        ]
+      },
+      {
+        "city": "Nolensville",
+        "slug": "nolensville-tn",
+        "state": "TN",
+        "content": "Horizon Excavation helps shape Nolensville’s expanding suburban landscape with precision grading and utility installation. The town's rapid growth requires efficient excavation services to support new neighborhoods. We account for the humid summer climate by implementing effective soil compaction techniques.",
+        "localContext": "Nolensville is a fast-growing community with a blend of rural and suburban appeal.",
+        "nearbyAreas": [
+          "Franklin",
+          "Brentwood",
+          "Arrington"
+        ]
+      },
+      {
+        "city": "Spring Hill",
+        "slug": "spring-hill-tn",
+        "state": "TN",
+        "content": "Horizon Excavation provides dependable excavation services for Spring Hill’s booming residential and industrial sectors. Our team navigates the region's limestone bedrock efficiently, ensuring stable foundations for new constructions. The hot summers require adaptive scheduling to maximize productivity.",
+        "localContext": "Spring Hill is a rapidly developing city with a strong automotive industry presence.",
+        "nearbyAreas": [
+          "Columbia",
+          "Thompson's Station",
+          "Franklin"
+        ]
+      },
+      {
+        "city": "Lebanon",
+        "slug": "lebanon-tn",
+        "state": "TN",
+        "content": "Horizon Excavation supports Lebanon’s mix of historic downtown projects and modern subdivisions. We specialize in terrain-adaptive excavation, crucial for the area’s rolling hills. The humid summer climate necessitates careful moisture management during site preparation.",
+        "localContext": "Lebanon offers a blend of historic sites and new residential expansions.",
+        "nearbyAreas": [
+          "Mt. Juliet",
+          "Watertown",
+          "Hartsville"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "residential-excavation": "/images/service-residential-excavation.webp",
+      "commercial-site-prep": "/images/service-commercial-site-prep.webp",
+      "foundation-digging": "/images/service-foundation-digging.webp",
+      "pool-excavation": "/images/service-pool-excavation.webp",
+      "storm-damage-cleanup": "/images/service-storm-damage-cleanup.webp"
+    },
+    "servicesResponsive": {
+      "residential-excavation": {
+        "src": "/images/service-residential-excavation.webp",
+        "srcset": "/images/service-residential-excavation-400w.webp 400w, /images/service-residential-excavation-800w.webp 800w, /images/service-residential-excavation-1200w.webp 1200w, /images/service-residential-excavation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-site-prep": {
+        "src": "/images/service-commercial-site-prep.webp",
+        "srcset": "/images/service-commercial-site-prep-400w.webp 400w, /images/service-commercial-site-prep-800w.webp 800w, /images/service-commercial-site-prep-1200w.webp 1200w, /images/service-commercial-site-prep.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "foundation-digging": {
+        "src": "/images/service-foundation-digging.webp",
+        "srcset": "/images/service-foundation-digging-400w.webp 400w, /images/service-foundation-digging-800w.webp 800w, /images/service-foundation-digging-1200w.webp 1200w, /images/service-foundation-digging.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "pool-excavation": {
+        "src": "/images/service-pool-excavation.webp",
+        "srcset": "/images/service-pool-excavation-400w.webp 400w, /images/service-pool-excavation-800w.webp 800w, /images/service-pool-excavation-1200w.webp 1200w, /images/service-pool-excavation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "storm-damage-cleanup": {
+        "src": "/images/service-storm-damage-cleanup.webp",
+        "srcset": "/images/service-storm-damage-cleanup-400w.webp 400w, /images/service-storm-damage-cleanup-800w.webp 800w, /images/service-storm-damage-cleanup-1200w.webp 1200w, /images/service-storm-damage-cleanup.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
